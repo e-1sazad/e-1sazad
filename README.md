@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Elgun</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=e-1sazad&label=Profile%20views&color=0e75b6&style=flat" alt="e-1sazad" /> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,3 +21,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=e-1sazad&show_icons=true&locale=en" alt="e-1sazad" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=e-1sazad&" alt="e-1sazad" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=e-1sazad&label=Profile%20views&color=0e75b6&style=flat" alt="e-1sazad" /> </p>
