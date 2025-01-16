@@ -1,9 +1,18 @@
 
-![masterHead](https://instagram.fgyd15-1.fna.fbcdn.net/v/t51.2885-19/466381308_1762261974547886_1198937607805008688_n.jpg?_nc_ht=instagram.fgyd15-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=qBd64qQtzR0Q7kNvgGzhi2_&_nc_gid=123c64b1e67142569a7053b0e911d578&edm=ALGbJPMBAAAA&ccb=7-5&oh=00_AYDg5YiZlVUddvuR0GOQPquU0IhYW115UQ21rL9ht1UTvg&oe=678EF7AC&_nc_sid=7d3ac5)
+<img 
+  align="right" 
+  src="https://instagram.fgyd15-1.fna.fbcdn.net/v/t51.2885-19/466381308_1762261974547886_1198937607805008688_n.jpg?_nc_ht=instagram.fgyd15-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=qBd64qQtzR0Q7kNvgGzhi2_&_nc_gid=123c64b1e67142569a7053b0e911d578&edm=ALGbJPMBAAAA&ccb=7-5&oh=00_AYDg5YiZlVUddvuR0GOQPquU0IhYW115UQ21rL9ht1UTvg&oe=678EF7AC&_nc_sid=7d3ac5" 
+  alt="masterHead" 
+  width="300" 
+  height="300" 
+  style="border-radius: 50;"
+/>
+
+
 
 
 <h1 align="center">Hi 👋, I'm Elgun</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A frontend developer from Azerbaijan</h3>
 
 
 
